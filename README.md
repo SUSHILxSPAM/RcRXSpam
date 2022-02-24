@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="RiZoeLXSpam Logo">
+  <img https://te.legra.ph/file/572b3ddbf77fc7461502c.jpg" alt="RcRXSpam Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>RcR X sᴘᴀᴍ</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/RiZoeLXSpam?style=flat-square&color=orange)](https://github.com/MrRizoel/RiZoeLXSpam/fork)
@@ -30,9 +30,9 @@
 [![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHxHELL)
+* [Channel](https://t.me/RCR_OFFICIAL)
+* [Support Group](https://t.me/RCRxHELL)
 
 # Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [RCR Creator](https://github.com/SUSHILxSPAM)
+* [LGCY](https://github.com/LGCY_MUSIC_PLAYER/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
