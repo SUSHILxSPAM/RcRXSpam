@@ -1,5 +1,5 @@
 build:
   docker:
-    Riz: Dockerfile
+    SuS: Dockerfile
 run:
-  Riz: python3 -m RiZoeLXSpam
+  SuS: python3 -m RcRXSpam
