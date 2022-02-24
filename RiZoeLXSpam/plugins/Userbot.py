@@ -1,10 +1,10 @@
-# RiZoeL X Spam - Spam Userbots
-# © 2021 - 2022 - TheRiZoeL
+# RcR X Spam - Spam Userbots
+# © 2021 - 2022 - RCRoWNER
 
 import os
 import sys
-from RiZoeLXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, Riz11, Riz12, Riz13, Riz14, Riz15, Riz16, Riz17, Riz18, Riz19, Riz20, Riz21, Riz22, Riz23, Riz24, Riz25, Riz26, Riz27, Riz28, Riz29, Riz30, Riz31, Riz32, Riz33, Riz34, Riz35, Riz36, Riz37, Riz38, Riz39, Riz40, SUDO_USERS
-from RiZoeLXSpam import ALIVE_PIC, rizoelversion
+from RcRXSpam import Riz, Riz2, Riz3, Riz4, Riz5 , Riz6, Riz7, Riz8, Riz9, Riz10, Riz11, Riz12, Riz13, Riz14, Riz15, Riz16, Riz17, Riz18, Riz19, Riz20, Riz21, Riz22, Riz23, Riz24, Riz25, Riz26, Riz27, Riz28, Riz29, Riz30, Riz31, Riz32, Riz33, Riz34, Riz35, Riz36, Riz37, Riz38, Riz39, Riz40, SUDO_USERS
+from RcRXSpam import ALIVE_PIC, rizoelversion
 from .. import CMD_HNDLR as hl
 from telethon import events, version
 from time import time
@@ -86,16 +86,16 @@ async def ping(e):
         start = datetime.now()
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        pingop = f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\nϟ ʀɪᴢᴏᴇʟ X sᴘᴀᴍ ϟ︎ `{ms}` ᴍs"                   
+        pingop = f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\nϟ RcR X sᴘᴀᴍ ϟ︎ `{ms}` ᴍs"                   
         await fuk.edit(pingop)
 
 
 # ALIVE
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/デ-𖣔H-H-02-24"
 
 
-rizoel = "✧ 𝗥𝗶𝗭𝗼𝗲𝗟 𝗫 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲 ✧\n\n"
+rizoel = "✧ 𝐑𝐜𝐑 𝐒𝐩𝐚𝐦 𝐇𝐞𝐚𝐫 ✧\n\n"
 
 rizoel += f"┏━━━━━━━━━━━━━━━━━━━\n"
 
@@ -103,15 +103,15 @@ rizoel += f"┣➣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 
 rizoel += f"┣➣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
 
-rizoel += f"┣➣ **ʀɪᴢᴏᴇʟXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
+rizoel += f"┣➣ **RcRXsᴘᴀᴍ ᴠᴇʀsɪᴏɴ**  : `{rizoelversion}`\n"
     
-rizoel += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/DNHxHELL)\n"
+rizoel += f"┣➣ **sᴜᴘᴘᴏʀᴛ** : [JOIN](https://t.me/RCRxHELL)\n"
 
-rizoel += f"┣➣ **ᴄʜᴀɴɴᴇʟ** : [JOIN](https://t.me/RiZoeLX)\n"
+rizoel += f"┣➣ **ᴄʜᴀɴɴᴇʟ** : [JOIN](https://t.me/RCRxHELL)\n"
 
 rizoel += f"┗━━━━━━━━━━━━━━━━━━━\n\n"
 
-rizoel += f"🖤 [𝐑𝐄𝐏𝐎](https://github.com/MrRizoel/RiZoeLXSpam) 🖤"            
+rizoel += f"🖤 [𝐑𝐄𝐏𝐎](https://github.com/SUSHILxSPAM/RCRxSPAM) 🖤"            
                                     
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%salive" % hl))
 async def alive(event):
@@ -123,9 +123,9 @@ async def alive(event):
    
 # help
 
-HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
+HELP_PIC = "https://telegra.ph/デ-𖣔H-H-02-24"
 
-RiZoeLX = "🔥 𝗥𝗜𝗭𝗢𝗘𝗟 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
+RiZoeLX = "🔥 𝐑𝐜𝐑 𝐒𝐩𝐚𝐦 𝐇𝐞𝐚𝐫 🔥\n\n"
  
 RiZoeLX += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
 
@@ -147,7 +147,7 @@ RiZoeLX += f" `.dm` - `.dmraid` - `.dmspam` \n\n `.addecho` - `.rmecho` \n\n"
 
 RiZoeLX += f"All Cmds Uploaded : [•HERE•](https://t.me/Resourcez/4) \n\n"
  
-RiZoeLX += f"© @RiZoeLX | @DNHxHELL\n"
+RiZoeLX += f"© @RiZoeLX | @RCRxHELL\n"
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -155,7 +155,7 @@ async def help(event):
     if event.sender_id in SUDO_USERS:
      await Riz.send_file(event.chat_id,
                                   HELP_PIC,
-                                  caption=RiZoeLX)                                                         
+                                  caption=RCR)                                                         
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
