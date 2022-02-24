@@ -19,7 +19,7 @@
 
 ### Generate string session from below:
 
-[![GenerateString](https://img.shields.io/badge/RiZoeLXSpam-String-yellowgreen)](https://replit.com/@RiZoeL/RiZoeLXSpam#main.py) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/RcRXSpam-String-yellowgreen)](https://replit.com/@RiZoeL/RiZoeLXSpam#main.py) ``Telethon``
 
 # Deploy on heroku
 
@@ -27,7 +27,7 @@
 
 
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
-[![Commands](https://img.shields.io/badge/RiZoeLXSpam-CMDS-blue)](https://t.me/Resourcez/4)
+[![Commands](https://img.shields.io/badge/RcRXSpam-CMDS-blue)](https://t.me/Resourcez/4)
 
 # Support & Updates
 * [Channel](https://t.me/RCR_OFFICIAL)
